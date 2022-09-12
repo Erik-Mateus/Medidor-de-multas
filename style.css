@@ -1,0 +1,50 @@
+* {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 550;
+}
+.titulo {
+  text-align: center;
+}
+#quant {
+  text-align: center;
+}
+.container {
+  text-align: center;
+  padding-top: 50px;
+}
+#btn {
+  cursor: pointer;
+  border: none;
+  background-color: black;
+  color: aliceblue;
+  padding: 4px;
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px,
+    rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px,
+    rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+#btn:hover {
+  background-color: rgb(41, 41, 41);
+}
+#res {
+  font-size: 20px;
+  margin-top: 30px;
+  text-align: center;
+}
+body {
+  margin-top: 400px;
+}
+::-webkit-scrollbar {
+  background-color: rgb(129, 129, 129);
+  width: 10px;
+}
+::-webkit-scrollbar-thumb {
+  background-color: rgb(190, 190, 190);
+  border-radius: 50px;
+}
+<<<<<<< HEAD
+::-webkit-scrollbar-thumb{
+    background-color: rgb(190, 190, 190);
+    border-radius: 50px;
+}
+=======
+>>>>>>> 372db8c (teste pages)
