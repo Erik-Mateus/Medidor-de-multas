@@ -1,3 +1,7 @@
+/**
+ * It takes the value of the input, subtracts 50 from it, divides the result by 10, and then rounds the
+ * result down to the nearest integer.
+ */
 function calcular() {
   var txtvelo = document.getElementById("txtvel");
   var res = document.getElementById("res");
@@ -12,6 +16,7 @@ function calcular() {
   }
 }
 
+/* It's a dark mode toggle. */
 const $html = document.querySelector("html");
 const $checkbox = document.querySelector(".checkbox");
 
